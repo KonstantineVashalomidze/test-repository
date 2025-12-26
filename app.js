@@ -3,3 +3,5 @@
 
 // New feature
 function initial() {}
+function improved() {}
+// Local work
