@@ -2,3 +2,4 @@
 // From experimental-branch
 
 // New feature
+function initial() {}
